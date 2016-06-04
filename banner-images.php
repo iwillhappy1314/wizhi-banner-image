@@ -3,7 +3,7 @@
 Plugin Name:        Wizhi banner images
 Plugin URI:         http://www.wpzhiku.com/
 Description:        Display diffrent banner images in page and taxonomy terms，为每个页面或分类显示一个banner背景图
-Version:            1.1
+Version:            1.2
 Author:             WordPress 智库
 Author URI:         http://www.wpzhiku.com/
 License:            MIT License
