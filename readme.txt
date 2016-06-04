@@ -69,7 +69,7 @@ Screenshots is here：[http://www.wpzhiku.com/wizhi-submenus/](http://www.wpzhik
 
 == Changelog ==
 
-= 1.1 =
+= 1.2 =
 * publish from github
 
 = 1.1 =
